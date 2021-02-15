@@ -1,1 +1,1 @@
-# [[My portfolio](https://callmekeyz.github.io/)]
+# [[My portfolio](http://callmekeyz.github.io)]
