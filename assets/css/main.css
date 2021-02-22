@@ -2,10 +2,10 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,700,900");
 
 .icon-image {
-
 	max-width: 100px;
 	height: auto;
 	margin: auto;
+	flex-direction: row;
 }
 
 .profile-image {
